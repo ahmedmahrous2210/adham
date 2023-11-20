@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.footprint-intelligence.com	TRUE	/	FALSE	1999999999	crumb	BcY+rJ8l85hdMmRmYzQ1NDI2MjQxODlmNDE2YWQ4ODJlZGVjZTM0
+.calendly.com	TRUE	/	FALSE	1999999999	__cf_bm	4PesqRPmUXFK9i3ftCkDgoGYpmqFRhtEbR4A6cobRes-1700405482-0-AX+g8hNT8m2PiZxC8CeHc6UOAQCygboJ9Ezn87x0VtP8m9GltfFKzsjCB5D6P3sCgY011vsZhabQLkrAnUcRPJs=
+assets.calendly.com	TRUE	/	FALSE	1999999999	SameSite	None
+

@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 19 Nov 2023 16:46:40 at https://www.footprint-intelligence.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.footprint-intelligence.com/ -O1 "C:\My Web Sites\adham" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:53:23	Error: 	"Not Found" (404) at link https://www.footprint-intelligence.com/hospitality-1 (from https://www.footprint-intelligence.com/plans)
+16:55:41	Error: 	"Not Found" (404) at link https://www.footprint-intelligence.com/"https://assets.calendly.com/assets/external/widget.js/" (from https://www.footprint-intelligence.com/get-started)
+16:55:41	Error: 	"Not Found" (404) at link https://www.footprint-intelligence.com/"//embed.typeform.com/next/embed.js/"></script>","resolvedBy":"manual","customThumbEnabled":false}" (from https://www.footprint-intelligence.com/csrd-check)
+16:57:33	Error: 	"Not Found" (404) at link https://www.footprint-intelligence.com/e (from https://embed.typeform.com/next/embed.js)
+16:57:33	Error: 	"Not Found" (404) at link https://www.footprint-intelligence.com/to/ (from https://embed.typeform.com/next/embed.js)
+16:57:33	Error: 	"Not Found" (404) at link https://www.footprint-intelligence.com/window.location.href (from https://embed.typeform.com/next/embed.js)
+16:57:34	Error: 	"Forbidden" (403) at link https://embed.typeform.com/next/css/ (from https://embed.typeform.com/next/embed.js)
+16:57:34	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cdn.ampproject.org/v0.js (from https://www.footprint-intelligence.com/blog/why-climate-transparency-in-the-media-industry-matters?format=amp)
+16:58:00	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cdn.ampproject.org/v0.js (from https://www.footprint-intelligence.com/blog/why-climate-transparency-in-the-media-industry-matters?format=amp)
+16:58:01	Error: 	"Not Found" (404) at link https://www.footprint-intelligence.com/blog/chrome-extension:// (from https://www.instagram.com/embed.js)
+16:58:01	Error: 	"Not Found" (404) at link https://www.footprint-intelligence.com/blog/$1/ (from https://www.instagram.com/embed.js)
+16:58:01	Error: 	"Not Found" (404) at link https://www.footprint-intelligence.com/blog/embed/ (from https://www.instagram.com/embed.js)
+16:58:01	Error: 	"Not Found" (404) at link https://www.footprint-intelligence.com/blog/captioned/ (from https://www.instagram.com/embed.js)
+16:58:20	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://cdn.ampproject.org/v0.js (from https://www.footprint-intelligence.com/blog/why-climate-transparency-in-the-media-industry-matters?format=amp)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 40 seconds : 778 links scanned, 762 files written (369436319 bytes overall) [326200793 bytes received at 466001 bytes/sec], 53936099 bytes transferred using HTTP compression in 165 files, ratio 13%, 3.6 requests per connection
+(12 errors, 2 warnings, 0 messages)
